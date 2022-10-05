@@ -1,4 +1,4 @@
 # globos-001-p5js
 Segundo paso del ejercicio de orientación a objetos, pero en p5.js 
 
-Copia de Nael porque soy un ladron de codigo.
+Copia de Nael.
